@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+input {
+    width: 100px;
+}
+
+button {
+    margin: 3px;
+}
+
+fieldset {
+    width: 600px;
+    margin-top: 15px;
+}
+
+.even {
+    color: green;
+}
+
+.odd {
+    color: blue;
+}
